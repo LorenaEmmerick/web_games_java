@@ -9,7 +9,7 @@
 
 ## 💻 Configurando o projeto de dependência ##
 Dependência do projeto backend: 
-[api-games-java](https://github.com/LorenaEmmerick/api-games-java "api-games-java")
+[games-java](https://github.com/LorenaEmmerick/games_java "games-java")
 > O projeto de dependência deve estar startado pois esse usa as APIs externamente
 > 
 - [Java 8](https://www.java.com/pt-BR/ "Java 8")

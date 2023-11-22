@@ -1,7 +1,6 @@
 package br.com.pocdespesas;
 
 import br.com.pocdespesas.entity.Game;
-
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
