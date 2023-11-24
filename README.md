@@ -3,9 +3,9 @@
 > * Responsável por manipulações de dados de Games
 
 ## ⚒️ URLs:
-**http://localhost:8080/despesas-web/adiciona-game.html** - Form responsável por salvar um jogo no banco de dados
+**http://localhost:8080/webgames/adiciona-game.html** - Form responsável por salvar um jogo no banco de dados
 
-**http://localhost:8080/despesas-web/busca-game.html** - Form responsável por buscar um jogo no banco de dados
+**http://localhost:8080/webgames/busca-game.html** - Form responsável por buscar um jogo no banco de dados
 
 ## 💻 Configurando o projeto de dependência ##
 Dependência do projeto backend: 
@@ -18,9 +18,9 @@ Dependência do projeto backend:
 ## 🏃 Como rodar o projeto localmente
 1. Rode o `mvn clean install`
 2. Verifique se o projeto de dependência para o backend está configurado
-3. Rode o projeto backend 'api-games-java'
-4. Rode o projeto web 'despesas-web [jetty:run]'
-- acesse: http://localhost:8080/despesas-web/adiciona-game.html
+3. Rode o projeto backend 'games-java'
+4. Rode o projeto web 'web_games_java [jetty:run]'
+- acesse: http://localhost:8080/webgames/adiciona-game.html
 - Verifique se consegue usar o form
 
 
