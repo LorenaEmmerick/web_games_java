@@ -1,4 +1,4 @@
-package br.com.pocdespesas.entity;
+package br.com.game.web.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

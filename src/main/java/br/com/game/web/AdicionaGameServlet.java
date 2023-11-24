@@ -1,6 +1,6 @@
-package br.com.pocdespesas;
+package br.com.game.web;
 
-import br.com.pocdespesas.entity.Game;
+import br.com.game.web.entity.Game;
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;

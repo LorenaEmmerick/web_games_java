@@ -1,4 +1,4 @@
-package br.com.pocdespesas;
+package br.com.game.web;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
