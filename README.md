@@ -1,4 +1,4 @@
-# 🚀 Aplicação Web JSP - Games Despesas Web
+# 🚀 Aplicação Web JSP - Games Web
 
 > * Responsável por manipulações de dados de Games
 
